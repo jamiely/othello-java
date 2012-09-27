@@ -7,9 +7,7 @@ import java.net.*;
 
 /*
  * Jamie Ly
- * jal39@drexel.edu
- * CS ##:TITLE
- * Assignment ## Program ##
+
  * 
  * Created on May 31, 2004
  *

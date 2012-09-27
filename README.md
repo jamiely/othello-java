@@ -1,7 +1,7 @@
 # Compile and Run with:
 
-% javac *.java
-% java OthelloApplication.java
+	% javac *.java
+	% java OthelloApplication.java
 
 Start a new game by click new in the file menu.
 You can save at any point with the save button.

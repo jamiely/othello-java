@@ -4,9 +4,7 @@ import java.util.Vector;
 
 /*
  * Jamie Ly
- * jal39@drexel.edu
- * CS 451: Software Engineering
- * Assignment 2 
+ 
  * 
  * Created on May 6, 2004
  *

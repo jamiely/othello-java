@@ -4,9 +4,7 @@ import java.awt.event.*;
 
 /*
  * Jamie Ly
- * jal39@drexel.edu
- * CS ##:TITLE
- * Assignment ## Program ##
+
  * 
  * Created on Jun 1, 2004
  *
