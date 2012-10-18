@@ -9,3 +9,8 @@ You can load at any point with the load button.
 
 Red squares show legal moves. 
 
+# Media
+
+* http://youtu.be/5JscZDWieAs
+* http://youtu.be/9lsuVibP9p4
+
